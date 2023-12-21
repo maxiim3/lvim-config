@@ -61,3 +61,7 @@ This document provides a comprehensive overview of the custom keymaps and shortc
 
 - Harpoon integration with fugitive for enhanced Git workflows.
 
+### Thanks
+- Shout out to [Typecraft](https://www.youtube.com/watch?v=S-xzYgTLVJE) for his video
+- And to [The Primeagen](https://www.youtube.com/watch?v=X6AR2RMB5tE) for
+  sharing his config
